@@ -29,5 +29,5 @@ Más sobre ésto: https://Jo-Sword.github.io/administrapp-demo
 
 ### 📫 Comunícate conmigo.
 
-Email  : [joswordd@gmail.com](mailto://joswordd@gmail.com)
-Discord: Jo-Sword#0118
+- Email  : [joswordd@gmail.com](mailto://joswordd@gmail.com)
+- Discord: Jo-Sword#0118
