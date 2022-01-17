@@ -5,7 +5,7 @@ Tengo 20 años y soy un autodidacta del desarrollo desde hace 10 años, sueño f
 ### 🔭 Actualmente estoy trabajando en Administrapp.
 
 Es una aplicación multiplataforma de gestión de negocios comerciales e industriales dirigido a los emprendedores venezolanos para reformar la tecnología en el país.
-Más sobre ésto: https://Jo-Sword.github.io/administrapp-demo
+Más sobre ésto: https://OrlandoBricenoB.github.io/administrapp-demo
 
 ### 🌱 Estoy aprendiendo...
 
@@ -29,5 +29,5 @@ Más sobre ésto: https://Jo-Sword.github.io/administrapp-demo
 
 ### 📫 Comunícate conmigo.
 
-- Email  : [joswordd@gmail.com](mailto://joswordd@gmail.com)
-- Discord: Jo-Sword#0118
+- Email  : [orlando.briceno.blanco@gmail.com](mailto://orlando.briceno.blanco@gmail.com)
+- Discord: OrlandoBricenoB#4802
