@@ -5,7 +5,7 @@ Tengo 21 años y soy un autodidacta del desarrollo desde hace 10 años, sueño f
 ### 🔭 Actualmente estoy trabajando en Administrapp.
 
 Es una aplicación multiplataforma de gestión de negocios comerciales e industriales dirigido a los emprendedores venezolanos para reformar la tecnología en el país.
-Más sobre ésto: https://OrlandoBricenoB.github.io/administrapp-demo
+Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 
 ### 🌱 Estoy aprendiendo...
 
