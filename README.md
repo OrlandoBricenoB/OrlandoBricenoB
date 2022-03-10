@@ -15,11 +15,7 @@ Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 - Docker/AWS y Cloud Server en general.
 - React.
 
-### 👨‍💻 Estoy buscando trabajar con...
-
-- Una empresa flexible con el horario, que me permita continuar con mis estudios.
-- Un equipo amigable y organizado.
-- Un sueldo mínimo de **U$D 1500**
+### 👨‍💻 Trabajando en [3MIT](https://3mit.dev)
 
 ### 💬 Más sobre mí.
 
