@@ -1,13 +1,40 @@
-### 👋 ¡Hola! Soy Orlando Briceño.
+# 👋 ¡Hola! Soy Orlando Briceño.
 
-Tengo 21 años y soy un autodidacta del desarrollo desde hace 10 años, sueño fundamentar e impulsar Pymes con mis softwares.
+Tengo 21 años y soy un autodidacta del desarrollo desde hace 11 años, me esfuerzo cada día por convertir sueños en realidad y compartir mi conocimiento.
 
-### 🔭 Actualmente estoy trabajando en Administrapp.
+Soy un Desarrollador **Full Stack Semi Senior** 👨‍💻
+
+🌎 Vivo en **VENEZUELA** 🇻🇪
+
+```javascript
+  // * Programming Since 2011
+  const programmingSince = new Date('2011-02-04').getTime()
+  const yearsDate = new Date(Date.now() - programmingSince)
+  const yearsDevelopment = yearsDate.getUTCFullYear() - 1970
+  // * Get Location from API
+  const locationData = joSword.getLocation()
+  // * More Information
+  const bio = {
+    locatedIn: {
+      country: 'Venezuela',
+      ...locationData
+    },
+    yearsDevelopment: `${yearsDevelopment} años de experiencia.`,
+    stack = {
+      front: ['Svelte', 'React', 'CSS', 'Sass', 'BEM', 'BEMIT', 'Vite']
+      back: ['NodeJS', 'Express', 'NestJS', 'MongoDB', 'MySQL', 'PostgreSQL']
+      mobile: ['React Native']
+    },
+    tools: ['VSCode', 'Figma']
+  }
+```
+
+### 🔭 Trabajando en:
 
 Es una aplicación multiplataforma de gestión de negocios comerciales e industriales dirigido a los emprendedores venezolanos para reformar la tecnología en el país.
 Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 
-### 🌱 Estoy aprendiendo...
+<h3>🌱 Estoy aprendiendo...</h3>
 
 - Inglés intermedio.
 - CI/CD con Github Actions.
@@ -17,11 +44,22 @@ Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 
 ### 👨‍💻 Trabajando en [3MIT](https://3mit.dev)
 
-### 💬 Más sobre mí.
+[![3MIT](https://3mit.dev/static/media/logo.2e7f7030.svg)](https://3mit.dev)
 
-- Soy cabeza de familia, vivo en casa rentada, sin hijos.
-- Me gusta aprender de otras personas.
-- Quiero trabajar en el mundo del desarrollo como FullStack NodeJS & React/Svelte porque anhelo compartir mis conocimientos con desarrolladores y empresas para añadir valor, cubrir sus necesidades y crecer junto a ellos hasta llegar a ser un Senior Full Stack.
+<h3>🛠️ Tecnologías</h3>
+  
+![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26 "HTML") &nbsp;
+![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6 "CSS") &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E "JavaScript") &nbsp;
+![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032 "Git") &nbsp;
+
+<details>  
+  <summary><h3>💬 Más sobre mí.</h3></summary>
+  
+  - Soy cabeza de familia, vivo en casa rentada, sin hijos.
+  - Me gusta aprender de otras personas.
+  - Quiero trabajar en el mundo del desarrollo como FullStack NodeJS & React/Svelte porque anhelo compartir mis conocimientos con desarrolladores y empresas para añadir valor, cubrir sus necesidades y crecer junto a ellos hasta llegar a ser un Senior Full Stack.
+</details>
 
 ### 📫 Comunícate conmigo.
 
@@ -30,6 +68,5 @@ Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/OrlandoBricenoB "Facebook") &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OrlandoBricenoB "Twitter") &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orlandobricenob/ "Instagram") &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/orlandobricenob/ "Discord") &nbsp;
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrlandoBricenoB "Github") &nbsp;
 [![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/orlandobriceno "Gitlab") &nbsp;
