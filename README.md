@@ -11,38 +11,47 @@ Soy un Desarrollador **Full Stack Semi Senior** 👨‍💻
   const programmingSince = new Date('2011-02-04').getTime()
   const yearsDate = new Date(Date.now() - programmingSince)
   const yearsDevelopment = yearsDate.getUTCFullYear() - 1970
-  // * Get Location from API
-  const locationData = joSword.getLocation()
+  // ! I must add getLocation from API.
+  // const locationData = joSword.getLocation()
   // * More Information
   const bio = {
     locatedIn: {
-      country: 'Venezuela',
-      ...locationData
+      country: 'Venezuela'
+      // ...locationData
     },
     yearsDevelopment: `${yearsDevelopment} años de experiencia.`,
     stack = {
-      front: ['Svelte', 'React', 'CSS', 'Sass', 'BEM', 'BEMIT', 'Vite']
-      back: ['NodeJS', 'Express', 'NestJS', 'MongoDB', 'MySQL', 'PostgreSQL']
+      front: ['Svelte', 'React', 'CSS', 'Sass', 'BEM', 'BEMIT', 'Vite'],
+      back: ['NodeJS', 'Express', 'NestJS', 'MongoDB', 'MySQL', 'PostgreSQL'],
       mobile: ['React Native']
     },
     tools: ['VSCode', 'Figma']
   }
 ```
 
-### 🔭 Trabajando en:
+## 🔭 Proyectos personales:
 
-Es una aplicación multiplataforma de gestión de negocios comerciales e industriales dirigido a los emprendedores venezolanos para reformar la tecnología en el país.
-Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
+<details>
+  <summary><h3>Estudios Jo-Sword</h3></summary>
+  Éste proyecto se convertirá en la comunidad de la academia de Jo-Sword, donde se podrá acceder a cursos súper completos y económicos para formarse como desarrollador desde las bases.
+</details>
 
-<h3>🌱 Estoy aprendiendo...</h3>
+<details>
+  <summary><h3>Administrapp</h3></summary>
+   Es una aplicación multiplataforma de gestión de negocios comerciales e industriales dirigido a los emprendedores venezolanos para reformar la tecnología en el país.
+  
+  Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
+</details>
+
+<h3>🌱 Actualmente estudiando...</h3>
 
 - Inglés intermedio.
 - CI/CD con Github Actions.
-- Test units.
+- Test units con Vitest.
 - Docker/AWS y Cloud Server en general.
-- React.
+- React Native.
 
-### 👨‍💻 Trabajando en [3MIT](https://3mit.dev)
+## 👨‍💻 Trabajando en [3MIT](https://3mit.dev)
 
 [![3MIT](https://3mit.dev/static/media/logo.2e7f7030.svg)](https://3mit.dev)
 
@@ -56,9 +65,9 @@ Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 <details>  
   <summary><h3>💬 Más sobre mí.</h3></summary>
   
-  - Soy cabeza de familia, vivo en casa rentada, sin hijos.
+  - Soy cabeza de familia, vivo solo con mi esposa.
   - Me gusta aprender de otras personas.
-  - Quiero trabajar en el mundo del desarrollo como FullStack NodeJS & React/Svelte porque anhelo compartir mis conocimientos con desarrolladores y empresas para añadir valor, cubrir sus necesidades y crecer junto a ellos hasta llegar a ser un Senior Full Stack.
+  - Lo que más me gusta de mi trabajo en 3MIT es que puedo compartir mis conocimientos y aprender con mi equipo mientras nos divertimos desarrollando.
 </details>
 
 ### 📫 Comunícate conmigo.
