@@ -25,5 +25,11 @@ Puedes probar la demo: https://OrlandoBricenoB.github.io/administrapp-demo
 
 ### 📫 Comunícate conmigo.
 
-- Email  : [orlando.briceno.blanco@gmail.com](mailto://orlando.briceno.blanco@gmail.com)
-- Discord: OrlandoBricenoB#4802
+[![Correo](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto://orlando.briceno.blanco@gmail.com "Gmail") &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlandobricenob "LinkedIn") &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/OrlandoBricenoB "Facebook") &nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OrlandoBricenoB "Twitter") &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orlandobricenob/ "Instagram") &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/orlandobricenob/ "Discord") &nbsp;
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrlandoBricenoB "Github") &nbsp;
+[![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/orlandobriceno "Gitlab") &nbsp;
