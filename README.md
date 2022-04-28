@@ -2,7 +2,7 @@
 
 Tengo 21 años y soy un autodidacta del desarrollo desde hace 11 años, me esfuerzo cada día por convertir sueños en realidad y compartir mi conocimiento.
 
-Soy un Desarrollador **Full Stack Semi Senior** 👨‍💻
+Soy un Desarrollador **Full Stack Junior** 👨‍💻
 
 🌎 Vivo en **VENEZUELA** 🇻🇪
 
