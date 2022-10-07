@@ -2,7 +2,7 @@
 
 Tengo 21 años y soy un autodidacta del desarrollo desde hace 11 años, me esfuerzo cada día por convertir sueños en realidad y compartir mi conocimiento.
 
-Soy un Desarrollador **Full Stack Junior** 👨‍💻
+Soy un Desarrollador **Full Stack** NodeJS & React. 👨‍💻
 
 🌎 Vivo en **VENEZUELA** 🇻🇪
 
@@ -45,11 +45,10 @@ Soy un Desarrollador **Full Stack Junior** 👨‍💻
 
 <h3>🌱 Actualmente estudiando...</h3>
 
-- Inglés intermedio.
+- Inglés B2.
 - CI/CD con Github Actions.
-- Test units con Vitest.
+- Testing con Vitest.
 - Docker/AWS y Cloud Server en general.
-- React Native.
 
 ## 👨‍💻 Trabajando en [3MIT](https://3mit.dev)
 
