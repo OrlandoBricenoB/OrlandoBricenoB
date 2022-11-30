@@ -2,6 +2,10 @@
 
 Full Stack Developer at 3MIT - Content Creator at Develandia - #JavaScript #React #Youtuber 🇻🇪
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/orlandobricenob?style=social)](https://twitter.com/orlandobricenob)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvESQBtiQLWZz3zYYx19MhQ?style=social)](https://youtube.com/@orlandobricenob?sub_confirmation=1)
+![GitHub followers](https://img.shields.io/github/followers/orlandobricenob?style=social)
+
 ```javascript
   // * Programming Since 2011
   const programmingSince = new Date('2011-02-04').getTime()
@@ -32,5 +36,3 @@ Full Stack Developer at 3MIT - Content Creator at Develandia - #JavaScript #Reac
 - 📰 Blog: https://develandia.tech
 - 📺 Youtube Channel: https://www.youtube.com/@orlandobricenob
 - 💻 LinkedIn: https://www.linkedin.com/in/orlandobricenob
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/orlandobricenob?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCvESQBtiQLWZz3zYYx19MhQ?style=social">
