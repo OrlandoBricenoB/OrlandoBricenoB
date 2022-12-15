@@ -1,3 +1,5 @@
+![github-readme-profile](https://raw.githubusercontent.com/OrlandoBricenoB/OrlandoBricenoB/main/resources/repo-cover.png)
+
 ### 👋 Hi there! I'm Orlando Briceño.
 
 Full Stack Developer at 3MIT - Content Creator at Develandia - #JavaScript #React #Youtuber 🇻🇪
