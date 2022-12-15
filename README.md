@@ -2,7 +2,7 @@
 
 ### 👋 Hi there! I'm Orlando Briceño.
 
-Full Stack Developer at ![3MIT](https://3mit.dev) - Content Creator at ![Develandia](https://www.youtube.com/@orlandobricenob) - #JavaScript #React #Youtuber 🇻🇪
+Full Stack Developer at [3MIT](https://3mit.dev) - Content Creator at [Develandia](https://www.youtube.com/@orlandobricenob) - #JavaScript #React #Youtuber 🇻🇪
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orlandobricenob?style=social)](https://twitter.com/orlandobricenob)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvESQBtiQLWZz3zYYx19MhQ?style=social)](https://youtube.com/@orlandobricenob?sub_confirmation=1)
