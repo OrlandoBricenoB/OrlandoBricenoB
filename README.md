@@ -1,4 +1,4 @@
-![github-readme-profile](https://raw.githubusercontent.com/OrlandoBricenoB/OrlandoBricenoB/main/resources/repo-cover.png)
+![github-readme-profile](https://raw.githubusercontent.com/OrlandoBricenoB/OrlandoBricenoB/c08c0e0f47e5da129951be22c4de1f49acfafbe0/resources/repo-cover.png)
 
 ### 👋 Hi there! I'm Orlando Briceño.
 
