@@ -35,6 +35,4 @@ Full Stack Developer at [OrlandoBricenoB](https://orlandobricenob.dev/) - CEO & 
   - I love sharing my knowledge and learning with my team while we have fun developing.
 </details>
 
-- 📰 Blog: https://develandia.tech
-- 📺 Youtube Channel: https://www.youtube.com/@orlandobricenob
 - 💻 LinkedIn: https://www.linkedin.com/in/orlandobricenob
