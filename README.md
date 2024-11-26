@@ -2,7 +2,7 @@
 
 ### 👋 Hi there! I'm Orlando Briceño.
 
-Full Stack Developer at [OrlandoBricenoB](https://orlandobricenob.dev/) - CEO & Founder at [Gadmin](https://gadmin.app/) - #JavaScript #React 🇻🇪
+Full Stack Developer at [OrlandoBricenoB](https://orlandobricenob.com/) - CEO & Founder at [Gadmin](https://gadmin.app/) - #JavaScript #React 🇻🇪
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orlandobricenob?style=social)](https://twitter.com/orlandobricenob)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvESQBtiQLWZz3zYYx19MhQ?style=social)](https://youtube.com/@orlandobricenob?sub_confirmation=1)
@@ -19,7 +19,7 @@ Full Stack Developer at [OrlandoBricenoB](https://orlandobricenob.dev/) - CEO & 
     country: 'Venezuela',
     yearsDevelopment: `${yearsDevelopment} years of experience.`,
     stack = {
-      front: ['Svelte', 'React', 'CSS', 'Sass', 'BEM', 'BEMIT', 'Vite', ...rest],
+      front: ['React', 'Svelte', 'CSS', 'Sass', 'BEM', 'BEMIT', 'Vite', ...rest],
       back: ['NodeJS', 'Express', 'NestJS', 'MongoDB', 'MySQL', 'PostgreSQL', ...rest],
       mobile: ['React Native']
     },
